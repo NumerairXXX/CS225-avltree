@@ -1,0 +1,27 @@
+Grading revision r36915 by mtang15, dated 2015-10-31 17:47:19.000793051 -0500 CDT
+Monad Autograder
+Testing lab_avl at 2015-11-02 00:31:05
+
+"In the absence of our leader, I'm assuming control." ~ Kyle Johnson
+
+Setting up test environment...
+Compiling...
+================================================================
+
+
+Running tests...
+================================================================
+test_oneElement  . . . [10 pts] - passed
+test_simpleRotateLeft  [10 pts] - passed
+test_simpleRotateRight [10 pts] - passed
+test_threeLeftRotates  [10 pts] - passed
+test_threeRightRotates [10 pts] - passed
+test_manyRotations . . [20 pts] - passed
+test_manyInserts . . . [20 pts] - passed
+test_valgrind (asan) . [10 pts] - passed
+
+
+Total score...
+================================================================
+TOTAL SCORE: 100
+
